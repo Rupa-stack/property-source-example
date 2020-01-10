@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-propertysource-example-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: t-rupa2
+Implementation-Vendor-Id: spring-propertysource-example-boot
+Build-Jdk: 1.8.0_71
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-propertysource-example-boot
+Created-By: Maven Integration for Eclipse
+
